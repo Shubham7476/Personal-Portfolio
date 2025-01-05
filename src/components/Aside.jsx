@@ -14,7 +14,7 @@ const Aside = () => {
                     <div className="w-32 h-32 flex-shrink-0 mr-4">
                         <div className="relative w-full h-full">
                             <img
-                                src="/images/us.jpg"
+                                src="/images/sss.jpg"
                                 alt="Shubham Sonake"
                                 className="w-full h-full object-cover rounded-full border-4 border-[#16213E]"
                             />
@@ -38,7 +38,7 @@ const Aside = () => {
                             {/* Resume */}
                             <a
                                 target="_blank"
-                                href="https://drive.google.com/file/d/1koWb0637YoMPOvTPyq_9aNatRrBzIpV_/view?usp=drivesdk"
+                                href="https://drive.google.com/file/d/1dMnc05OVrzqzUil3UCeRo6eTt6kAqtxl/view?usp=drive_link"
                                 className="inline-flex items-center space-x-2 bg-[#16213E] px-2 py-1 rounded-lg hover:bg-[#0F3460] transition-colors group"
                             >
                                 <div className="bg-blue-600 p-1 rounded-full group-hover:scale-110 transition-transform">
@@ -49,7 +49,7 @@ const Aside = () => {
 
                             {/* Email */}
                             <a
-                                href="mailto:shubhamsonake307@gmail.com"
+                                href="mailto:shubh.sonake17@gmail.com"
                                 className="inline-flex items-center space-x-2 bg-[#16213E] px-2 py-1 rounded-lg hover:bg-[#0F3460] transition-colors group"
                             >
                                 <div className="bg-green-600 p-1 rounded-full group-hover:scale-110 transition-transform">
@@ -99,7 +99,7 @@ const Aside = () => {
                     {/* Large Profile Image Section */}
                     <div className="relative h-64 w-full">
                         <img
-                            src="/images/us.jpg"
+                            src="/images/sss.jpg"
                             alt="Shubham Sonake"
                             className="absolute inset-0 w-full h-full object-cover"
                         />
@@ -131,7 +131,7 @@ const Aside = () => {
                             {/* Resume */}
                             <a
                                 target="_blank"
-                                href="https://drive.google.com/file/d/1koWb0637YoMPOvTPyq_9aNatRrBzIpV_/view?usp=drivesdk"
+                                href="https://drive.google.com/file/d/1dMnc05OVrzqzUil3UCeRo6eTt6kAqtxl/view?usp=drive_link"
                                 className="flex items-center space-x-4 bg-[#16213E] p-3 rounded-lg hover:bg-[#0F3460] transition-colors group"
                             >
                                 <div className="bg-blue-600 p-2 rounded-full group-hover:scale-110 transition-transform">
@@ -145,7 +145,7 @@ const Aside = () => {
 
                             {/* Email */}
                             <a
-                                href="mailto:shubhamsonake307@gmail.com"
+                                href="mailto:shubh.sonake17@gmail.com"
                                 className="flex items-center space-x-4 bg-[#16213E] p-3 rounded-lg hover:bg-[#0F3460] transition-colors group"
                             >
                                 <div className="bg-green-600 p-2 rounded-full group-hover:scale-110 transition-transform">
@@ -154,7 +154,7 @@ const Aside = () => {
                                 <div>
                                     <p className="font-semibold text-white">Email</p>
                                     <p className="text-xs text-gray-400 break-all">
-                                        shubhamsonake307@gmail.com
+                                        shubh.sonake17@gmail.com
                                     </p>
                                 </div>
                             </a>
